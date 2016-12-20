@@ -1,4 +1,4 @@
 #write your code here
 def hello
-  puts "hello"
+  puts "Hello!"
 end
