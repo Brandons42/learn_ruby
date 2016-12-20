@@ -1,7 +1,5 @@
 # # Hello!
-def hello
-  puts "Hello!"
-end
+#
 # This lab teaches basic Ruby function syntax.
 #
 # ## Open a terminal in this directory
