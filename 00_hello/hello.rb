@@ -1,3 +1,3 @@
 def hello
-  "Hello!"
+  "whuh?"
 end
