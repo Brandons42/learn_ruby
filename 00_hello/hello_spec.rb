@@ -1,3 +1,6 @@
+def hello
+  "Hello!"
+end
 # # Hello!
 #
 # This lab teaches basic Ruby function syntax.
