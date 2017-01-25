@@ -1,3 +1,1 @@
-def hello
-  "Hello!"
-end
+
